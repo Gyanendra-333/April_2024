@@ -10,3 +10,4 @@ addEdge(v, w)
     // add an edge from w to v also
     this.AdjList.get(w).push(v);
 }
+addEdge();
