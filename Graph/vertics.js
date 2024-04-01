@@ -7,6 +7,7 @@ printGraph()
 
     // iterate over the vertices
     for (var i of get_keys) {
+
         // get the corresponding adjacency list
         // for the vertex
         var get_values = this.AdjList.get(i);
