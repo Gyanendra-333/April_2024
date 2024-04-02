@@ -10,3 +10,12 @@ Two part of Graph is-
 
 A. Directed Graph
 B. Undirected Graph
+
+Graph Represented By Matrix
+
+[
+    0,1,1,0
+    1,0,1,1
+    1,1,0,0
+    0,1,0,0
+]
