@@ -1,0 +1,4 @@
+Graph---
+
+Graph is a non-linear data structure.
+=> Means non linear is don't follow a perticuler sequence
