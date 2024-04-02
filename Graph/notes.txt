@@ -1,4 +1,12 @@
+
 Graph---
 
 Graph is a non-linear data structure.
 => Means non linear is don't follow a perticuler sequence
+
+Two part of Graph is-
+1. Nodes
+2. Edges
+
+A. Directed Graph
+B. Undirected Graph
