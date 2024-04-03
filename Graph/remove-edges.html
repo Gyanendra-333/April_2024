@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        class Graph {
+            constructor() {
+                this.data = {}
+            }
+            addVerticx(vertex) {
+                if (!this.data[vertex]) {
+                    this.data[vertex] = [];
+                }
+            }
+            addEdges(v1, v2) {
+                if (!this.data[v1]) {
+                    this.addVerticx[v2];
+                }
+                this.data[v1].push(v2)
+                this.data[v2].push(v1)
+            }
+            removeEdges(v1, v2) {
+                this.data("remove", this.data[v1])
+                this.data[v1] = this.data[v1].filter((item) => {
+                    return item != v2;
+                })
+                console.log(data);
+            }
+        }
+        const graph1 = new Graph();
+        graph1.addVerticx("A");
+        graph1.addVerticx("B");
+        graph1.addVerticx("C");
+        graph1.addVerticx("D");
+        graph1.addEdges("A", "B");
+        removeEdges("A", "B");
+
+        console.log(graph1.data);
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
