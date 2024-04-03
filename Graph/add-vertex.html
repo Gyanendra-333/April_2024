@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        class Graph {
+            constructor() {
+                this.data = {}
+            }
+            addVerticx(vertex) {
+                if (!this.data[vertex]) {
+                    this.data[vertex] = [];
+                }
+            }
+        }
+        const graph1 = new Graph();
+        graph1.addVerticx("A");
+        graph1.addVerticx("B");
+        graph1.addVerticx("C");
+        graph1.addVerticx("D");
+
+        console.log(graph1.data);
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
