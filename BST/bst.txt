@@ -3,6 +3,6 @@ Binary Search Tree.
 
 => Binary Says => Have max two nodes - Left Right and Follow as on.
 
-=> Left < Root < Right 
+=> Left < Root < Right => This is executable rule in binary Search
 
 => Tree is non-linear data structure
