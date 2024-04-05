@@ -6,3 +6,10 @@ Binary Search Tree.
 => Left < Root < Right => This is executable rule in binary Search
 
 => Tree is non-linear data structure
+
+=> Depth First Search-
+1. Inorder     =>  Left Root Right
+2. PreOrder    => Root Left Right
+3. PostOrder   => Left Right Root
+
+=> Breath First Search-
