@@ -1,0 +1,7 @@
+
+Object Oriented Programming (OOPs) =>
+
+Main Three Terms- 
+2. Object      => Real World Things like - Human, Car, Food etc.
+1. Class       => BluePrint of Object.
+3. Inheritance => Inherit Property By Parent Class to Child Class.
