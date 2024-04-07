@@ -10,5 +10,7 @@ class Human:
 gyan = Human()
 gyan.eat()
 
+hari = Human()
+hari.walk()
 
 # print(type(gyan))
