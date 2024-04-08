@@ -9,5 +9,6 @@ class Human:
 
 gyanendra = Human("Ram", "Shyma", 10000)
 gyanendra.skills = "Super Power"
+gyanendra.age = 2000
 
 print(gyanendra.skills)
