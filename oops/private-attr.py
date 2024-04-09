@@ -12,3 +12,4 @@ class Human:
 
 
 gyan = Human("Gyanendra", "Insan", 27)
+print(gyan)
