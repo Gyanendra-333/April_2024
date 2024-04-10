@@ -9,5 +9,10 @@
 # Float    - Like 2.3,45.56,65.45
 
 data = 7
+data2 = 23.23
+
 data_type = type(data)
+data2_type = type(data2)
+
 print(data_type)
+print(data2_type)
