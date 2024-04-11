@@ -10,3 +10,5 @@ print(data_type)
 # str()
 # bool()
 # float()
+# undefined
+# null
