@@ -1,9 +1,9 @@
 
-function nameOfFunction() {
+function nameOfFunction() {             // initilize function
     // Write Logic here 
 }
 
-nameOfFunction();
+nameOfFunction(); //call function 
 
 
 // innerHtml
