@@ -14,7 +14,7 @@ while (condition) {
 
 // Do-while loop
 
-do {
+do {                // Atleast run a single time
     // write code here 
     increment - decreement
 } while (condition);
