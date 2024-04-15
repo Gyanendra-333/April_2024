@@ -7,7 +7,7 @@ for (initilizaton - cond; end - cond; increment - decreement) {
 
 // while loop
 
-while (condition) {
+while (condition) {           // Check condition
     // write code here 
     increment - decreement
 }
