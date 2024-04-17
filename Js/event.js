@@ -17,3 +17,7 @@ element.addeventlistner("doubleclick", () => {
 element.addeventlistner("mouseclick", () => {
     //    write code here  
 });
+
+element.addeventlistner("onclick", () => {
+    //    write code here  
+});
