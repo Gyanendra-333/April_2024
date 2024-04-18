@@ -1,0 +1,10 @@
+
+jQuery 
+
+Represention of jQuery -
+
+jQuery Syntex
+
+  $()
+  $("#id")
+  $("class-selector").hide();     = Example
